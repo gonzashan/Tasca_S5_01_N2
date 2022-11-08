@@ -51,6 +51,20 @@ La classe ubicada al paquet controllers (FlorController, per exemple), haurà de
     http://localhost:9001/flor/getOne/{id}
     http://localhost:9001/flor/getAll
 
-# Resultats
-![N|Solid](https://logistreak.com/images/icon/mysql.png) 
-![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
+# Resultats       http://localhost:9000/sucursal/add}
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/add.png" height="490" width="650" >
+   
+       http://localhost:9000/sucursal/getOne/{id}
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getOne-id.png" height="490" width="650" >
+   
+       http://localhost:9000/sucursal/getAll
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getAll.png" height="490" width="650" >
+   
+       http://localhost:9000/sucursal/update
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update.png" height="490" width="650" >
+   
+       http://localhost:9000/sucursal/updaterecord
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update-list.png" height="490" width="650" >
+   
+       http://localhost:9000/sucursal/delete/{id}
+    <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="491" width="650" >
