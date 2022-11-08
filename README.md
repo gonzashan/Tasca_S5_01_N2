@@ -40,7 +40,7 @@ Per a això, depenent del package principal, crearàs una estructura de packages
 -   cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n02.model.services
 -   cat.itacademy.barcelonactiva.cognoms.nom.s05.t01.n02.model.repository
  
-    <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/tree.png" height="260" width="160" >
+    <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/tree.png" height="387" width="340" >
 
  
 La classe ubicada al paquet controllers (FlorController, per exemple), haurà de ser capaç de donar resposta a les següents peticions per actualitzar i consultar informació:
