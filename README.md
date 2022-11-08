@@ -46,25 +46,27 @@ Per a això, depenent del package principal, crearàs una estructura de packages
 La classe ubicada al paquet controllers (FlorController, per exemple), haurà de ser capaç de donar resposta a les següents peticions per actualitzar i consultar informació:
 
     http://localhost:9001/flor/add
-    http://localhost:9001/flor/update
-    http://localhost:9001/flor/delete/{id}
     http://localhost:9001/flor/getOne/{id}
     http://localhost:9001/flor/getAll
+    http://localhost:9001/flor/update
+    http://localhost:9001/flor/delete/{id}
+    
 
-# Resultats       http://localhost:9000/sucursal/add}
- <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/add.png" height="490" width="650" >
+# Resultats       
+       http://localhost:9001/flor/add
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/add.png" height="490" width="650" >
    
-       http://localhost:9000/sucursal/getOne/{id}
- <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getOne-id.png" height="490" width="650" >
+       http://localhost:9001/flor/getOne/{id}
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/getOne.png" height="490" width="650" >
    
-       http://localhost:9000/sucursal/getAll
- <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/getAll.png" height="490" width="650" >
+       http://localhost:9001/flor/getAll
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/getAll.png" height="490" width="650" >
    
-       http://localhost:9000/sucursal/update
- <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update.png" height="490" width="650" >
+       http://localhost:9001/flor/update
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/update.png" height="490" width="650" >
    
-       http://localhost:9000/sucursal/updaterecord
- <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/update-list.png" height="490" width="650" >
+       http://localhost:9001/flor/getOne{id}ERROR
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/getOne-Error.png" height="490" width="650" >
    
        http://localhost:9000/sucursal/delete/{id}
-    <img src="https://github.com/gonzashan/Tasca_S5_T01_N1/blob/main/screen-capture-S5-T01-N1/delete.png" height="491" width="650" >
+    <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/delete.png" height="491" width="650" >
