@@ -2,7 +2,7 @@
 ## Exercici API Rest CRUD amb MySQL
 
 ![N|Solid](https://logistreak.com/images/icon/mysql.png)
- <img src="https://www.yihaomen.com/static/upload/mkyong/201908/spring-thymeleaf.png" height="180" width="200" >
+ <img src="https://www.yihaomen.com/static/upload/mkyong/201908/spring-thymeleaf.png" height="180" width="400" >
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 En aquesta tasca faràs un CRUD (Create, Read, Update, Delete) que pugui ser cridat com a API Rest i, també, com aplicació web..
