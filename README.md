@@ -68,5 +68,5 @@ La classe ubicada al paquet controllers (FlorController, per exemple), haurà de
        http://localhost:9001/flor/getOne{id}ERROR
  <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/getOne-Error.png" height="490" width="650" >
    
-       http://localhost:9000/sucursal/delete/{id}
-    <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/delete.png" height="491" width="650" >
+       http://localhost:9000/sucursal/delete/{id}      
+ <img src="https://github.com/gonzashan/Tasca_S5_T01_N2/blob/main/screen-shots/delete.png" height="491" width="650" >
